@@ -9,3 +9,10 @@ git clone https://github.com/wd017936/wdsms
 cd wdsms
 
 python wd.py
+
+
+Tool username & password
+
+Usern::white
+
+passwd::devil
